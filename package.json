@@ -1,0 +1,23 @@
+{
+  "name": "sc-temperature-converter",
+  "version": "1.0.0",
+  "description": "An npm package for converting temperature",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarnick005/npm-temperature-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sarnick Chakraborty",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sarnick005/npm-temperature-converter/issues"
+  },
+  "homepage": "https://github.com/sarnick005/npm-temperature-converter#readme"
+}
